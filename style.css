@@ -1,0 +1,7 @@
+.gift::before {
+  content: '🎁 ';
+}
+
+.gift.movie:visited::before {
+  content: '🎞 ';
+}
